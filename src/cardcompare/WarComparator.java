@@ -8,7 +8,7 @@ import apcscard.PlayingCard;
 
 /**
  *
- * @author DSTIGANT
+ * @author ATrippy
  */
 public class WarComparator implements CardComparator {
 
