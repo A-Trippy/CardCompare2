@@ -9,7 +9,7 @@ import static apcscard.PlayingCard.SPADES;
 
 /**
  *
- * @author DSTIGANT
+ * @author ATrippy
  */
 public class SpadesTrickComparator implements CardComparator {
     private int suitLead;
