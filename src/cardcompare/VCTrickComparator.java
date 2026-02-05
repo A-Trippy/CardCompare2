@@ -8,7 +8,7 @@ import apcscard.PlayingCard;
 
 /**
  *
- * @author DSTIGANT
+ * @author ATrippy
  */
 public class VCTrickComparator implements CardComparator {
     // if pc0 beats pc1, return 1
