@@ -16,8 +16,8 @@ public class CardCompare {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        testWar();
-        //testHearts();
+        //testWar();
+        testHearts();
         //testVC();
         //testSpades();
         //testBridge();
