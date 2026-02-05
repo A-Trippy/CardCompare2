@@ -13,7 +13,7 @@ import java.awt.Graphics2D;
 
 /**
  *
- * @author DSTIGANT
+ * @author ATrippy
  */
 public class HeartsCompareGUI extends CardCompareGUI {
     public static final Font FONT = GraphicsUtilityFunctions.getFont( 30 );
